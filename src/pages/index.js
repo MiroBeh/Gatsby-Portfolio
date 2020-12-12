@@ -4,7 +4,7 @@ const IndexPage = () => {
   return (
     <main>
       <title>Miro Behninger</title>
-      <div>Hello World</div>
+      <h1 className="text-4xl p-8 text-blue-700">Hello World</h1>
     </main>
   )
 }
