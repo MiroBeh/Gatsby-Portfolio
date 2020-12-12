@@ -1,10 +1,11 @@
 import * as React from "react"
+import { Header } from "../components/header";
 
 const IndexPage = () => {
   return (
     <main>
       <title>Miro Behninger</title>
-      <h1 className="text-4xl p-8 text-blue-700">Hello World</h1>
+      <Header />
     </main>
   )
 }

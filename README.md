@@ -11,5 +11,6 @@
 not deployed yet... Coming soon
 
 ## Used so far:
-+ Gatsby
-+ TailwindCSS
++ [Gatsby](https://www.gatsbyjs.com/)
++ [TailwindCSS](https://tailwindcss.com/)
++ [iconmonstr](https://iconmonstr.com/)
