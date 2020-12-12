@@ -7,3 +7,6 @@
   Developer Portfolio created with the help of Gatsby
 </h1>
 
+## Used so far
++ Gatsby
++ TailwindCSS
